@@ -1,0 +1,14 @@
+D:\C#\18.4\bin\Debug\net8.0\Do an nhom.exe
+D:\C#\18.4\bin\Debug\net8.0\Do an nhom.deps.json
+D:\C#\18.4\bin\Debug\net8.0\Do an nhom.runtimeconfig.json
+D:\C#\18.4\bin\Debug\net8.0\Do an nhom.dll
+D:\C#\18.4\bin\Debug\net8.0\Do an nhom.pdb
+D:\C#\18.4\obj\Debug\net8.0\Do an nhom.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\18.4\obj\Debug\net8.0\Do an nhom.AssemblyInfoInputs.cache
+D:\C#\18.4\obj\Debug\net8.0\Do an nhom.AssemblyInfo.cs
+D:\C#\18.4\obj\Debug\net8.0\Do an nhom.csproj.CoreCompileInputs.cache
+D:\C#\18.4\obj\Debug\net8.0\Do an nhom.dll
+D:\C#\18.4\obj\Debug\net8.0\refint\Do an nhom.dll
+D:\C#\18.4\obj\Debug\net8.0\Do an nhom.pdb
+D:\C#\18.4\obj\Debug\net8.0\Do an nhom.genruntimeconfig.cache
+D:\C#\18.4\obj\Debug\net8.0\ref\Do an nhom.dll
